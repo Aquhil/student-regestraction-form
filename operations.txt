@@ -1,0 +1,15 @@
+steps to perform push operation
+ls
+git init
+git status
+git add.("fro all files to push we used (.)" to push only specific file enter filename with extension.)
+git commit -m "first commmit"
+enter git mail and username 
+git commit -m "first commmit"
+git remote add origin "url"
+gti push origin master 
+enter user name 
+enter genrated token as password
+file is pushed sucessfull
+
+
